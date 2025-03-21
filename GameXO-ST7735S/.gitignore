@@ -1,6 +1,8 @@
 /Debug/
 /Release/
+/*.settings
 /*.ide
 /*.cproject
 /*.project
 /*.launch
+/*.mxproject
